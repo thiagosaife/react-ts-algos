@@ -1,0 +1,3 @@
+{
+  "description": "Loop over a given <array: number[]> and check if current element array[i] is greater than array[i + 1]. If true, Swap the elements."
+}
