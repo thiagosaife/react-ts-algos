@@ -1,0 +1,21 @@
+.CardsList, .Card-controls {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.Card {
+  margin: 5px;
+  width: 50px;
+  height: 50px;
+  line-height: 50px;
+  border-radius: 5px;
+  background-color: #fff;
+  color: black;
+  font-weight: bold;
+  vertical-align: middle;
+}
+
+.Card-button {
+  margin: 10px 5px;
+}
