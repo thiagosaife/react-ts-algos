@@ -39,7 +39,7 @@ function CardsList(props: TProps): ReactElement {
   return (
     <>
       <div className="Card-controls">
-        <label>Max numbers</label>
+        <label>Max numbers:</label>
         <input
           name="random"
           type="number"
@@ -49,7 +49,7 @@ function CardsList(props: TProps): ReactElement {
             random: +evt.target.value
           }))} 
         />
-        <label>Array length</label>
+        <label>Array length:</label>
         <input
           name="length"
           type="number"

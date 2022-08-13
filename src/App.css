@@ -9,6 +9,6 @@ p {
   line-height: 5px;
 }
 
-span {
+span, label {
   font-weight: bold;
 }

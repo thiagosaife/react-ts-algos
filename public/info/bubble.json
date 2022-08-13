@@ -1,3 +1,3 @@
 {
-  "description": "Loop over a given <array: number[]> and check if current element array[i] is greater than array[i + 1]. If true, Swap the elements."
+  "description": "Algo description: Loop over a given <array: number[]> and check if current element array[i] is greater than array[i + 1]. If true, Swap the elements. Instructions: In this app, numbers can repeat many times. The more you set <Array length> without raising <Max numbers>, the greater is the amount of times that numbers repeat themselves. There is no maximum number that you can set as the <Array length>, so very large numbers can crash your page. Check the Worst case on Time complexity."
 }
